@@ -30,3 +30,19 @@
     - Less number of params
     - Accurate ROC,AUC curve
     - Accurate performance matrices
+
+### [ModelV03 (Final Project File)](https://github.com/aatansen/Multi-Model-Comparison-Deep-Learning-Project/tree/main/ModelV03%20(Final%20Project%20File)/Project%20Files):
+- Changes
+    - Kaggle and Roboflow both dataset is Measured separately
+    - Roboflow dataset decreases after filtering
+- Removed
+    - Few number of images removed after filtering process
+- Added
+    - Image filtering added
+    - labels added for image preview and other task
+    - Total training time measured
+    - Epoch number measured by highest training and validation accuracy
+- Advantage
+    - Black images detected
+    - Two dataset models are compared
+    - Accurate result analysis
