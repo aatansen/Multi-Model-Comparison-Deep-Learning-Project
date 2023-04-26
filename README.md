@@ -46,3 +46,13 @@
     - Black images detected
     - Two dataset models are compared
     - Accurate result analysis
+
+### [ModelV04 (Improvement01)](https://github.com/aatansen/Multi-Model-Comparison-Deep-Learning-Project/tree/main/ModelV04%20(Improvement01)):
+- Changes
+    - Kaggle and Roboflow dataset are combined
+- Removed
+    - Nothing removed
+- Added
+    - More comparison added
+- Advantage
+    - Accuracy improved
